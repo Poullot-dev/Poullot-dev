@@ -1,5 +1,5 @@
 - 👋 Bonjour je m'appelle Poullot françois
-- 👀 Je m'intérresse à nu projet web
+- 👀 Je m'intérresse à la réalisation d'un projet web
 - 🌱 J'apprends actuellement les langages de code, React/JavaScript/Node.js/PostgreSql/Sass/html/css/php/rest-api/Node-Express
 - 💞️ Je cherche à collaborer sur tous ce qui me permettra d'aboutir à la réalisation de mon projet
 - 📫 Pour me joindre poullotfrancois@laposte.net
